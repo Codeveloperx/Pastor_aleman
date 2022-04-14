@@ -21,7 +21,7 @@ body{
 }
 
 #fondo{
-    background-image: url(/images/Fondo.jpg);
+    background-image: url(../images/Fondo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
